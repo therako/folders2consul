@@ -18,8 +18,6 @@ import sys
 from pathlib import Path
 from typing import Dict, Union
 
-import attr
-
 
 class Value:
     value: str
