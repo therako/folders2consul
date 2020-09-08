@@ -18,4 +18,3 @@ ADD folders2consul .
 ADD folders2consul_json.py .
 RUN chmod +x *
 
-ENTRYPOINT [ "./folders2consul" ]
